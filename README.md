@@ -1,14 +1,11 @@
-👋 Hi, My name is Marcelino but you can call me Marsea...
+## About me
+Hello, My name is Marcelino but you may call me Marsea. I am a Psychology graduate who finally took the jump into the coding world and have not regretted it since. My current focus is in front end development, working with HTML, CSS (Bootstrap), and JavaScript (React). You can expect my work to have elements drawn from movies, video games, anime, books, and or cats. I hope you enjoy my projects!   
 
-👀 I’m interested in front-end web development...
+## Socials
+<a href = "https://www.linkedin.com/in/marcelino-g/"><img width="150" src ="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png"/></a>
+<a href ="https://twitter.com/xProtocall" ><img width="100" src = "https://avatars.githubusercontent.com/u/50278?s=280&v=4"/></a>
+Discord: xProtocall#7204
 
-🌱 I’m currently learning html, css (Bootstrap), and JavaScript (React)...
-
-📫 How to reach me, Discord (xProtocall#7204) if not on here...
-
-I've been learning front-end web development on my own since September 2021. Learning anything new without any guidance can be scary, so I told myself 
-that wasn't entirely going to be the case with this journey of mine. So to make things a little less scary, you can expect my work to have fun elements 
-drawn from movies, video games, anime, books, and cats. I hope you enjoy my projects!
 
 <!---
 Marcelino-G/Marcelino-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
