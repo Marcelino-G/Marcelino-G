@@ -1,7 +1,7 @@
 ## :smile: About me
 Hello! 
 
-My name is Marcelino and I am a psychology graduate who dove headfirst into the world of software development and have not looked back since. I began by learning front-end development for several months on my own before recently transitioning to learning back-end development and connecting the two with instruction from Tech Elevator's full-stack boot camp. Most of my projects begin by first discovering a new concept/language/tool and then trying to understand it further in depth by implementing it. You can expect these projects to have references from movies, anime, cats, etc to lessen the sometimes intimidating building processes. Please do not hesitate to share any ideas, comments, or suggestions. I hope you enjoy my projects!     
+My name is Marcelino and I am a psychology graduate who dove headfirst into the world of software development and have not looked back since. I began by learning front-end development for several months on my own before recently transitioning to learning back-end development and connecting the two with instruction from Tech Elevator's full-stack boot camp. Most of my projects begin by first discovering a new concept/language/tool and then trying to understand it further in depth by implementing it. You can expect these projects to have references from movies, anime, cats, etc to lessen the sometimes intimidating building processes. Please do not hesitate to connect or share any ideas, comments, or suggestions. I hope you enjoy my projects!     
 
 ## :floppy_disk: Technologies
 :purple_circle: Java  
